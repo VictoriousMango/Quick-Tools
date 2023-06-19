@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.heading('Welcome User')
+st.header('Welcome User')
